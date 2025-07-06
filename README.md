@@ -4,3 +4,4 @@
 - user login
 - frontend api cleanup/setup
 - db setup
+- logging/monitoring
